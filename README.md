@@ -1,4 +1,4 @@
-eLoan application is an e-commerce app that provides a facility for the customers to apply Loan online.
+eLoan application is an e-commerce app implemented with REST that provides a facility for the customers to apply Loan online.
       It has 2 modules user and admin.
       
       User can apply,edit,track his loans
@@ -20,4 +20,4 @@ Below are the setups to run.
       2.)Incase of IDE - Setup the project in eclipse by importing as Maven project.
       3.)make sure MySQL database is up and running.
       4.)Build the maven project by executing 'mvn install' command on pom.xml
-      5.)Now navigate to 'http://localhost:8081/Eloan_App' to access the application.
+      5.)Now navigate to 'http://localhost:8086/eLoan-bootapp-restful-crud/' to access the application.
